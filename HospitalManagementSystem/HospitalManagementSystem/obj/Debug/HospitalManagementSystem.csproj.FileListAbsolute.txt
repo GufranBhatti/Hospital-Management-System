@@ -1,0 +1,51 @@
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.AssemblyReference.cache
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminLogin.resources
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Mainmenu.resources
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.DoctorLogin.resources
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AppointmentForm.resources
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminDashboard.resources
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.DoctorPanel.resources
+C:\Users\amirs\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.PatientPanel.resources
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.AssemblyReference.cache
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminDashboard.resources
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminLogin.resources
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AppointmentForm.resources
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.DoctorLogin.resources
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.DoctorPanel.resources
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Mainmenu.resources
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.PatientPanel.resources
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
+C:\Users\amirs\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.DoctorAppointments.resources
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminDashboard.resources
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AdminLogin.resources
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.AppointmentForm.resources
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.DoctorAppointments.resources
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.DoctorLogin.resources
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.DoctorPanel.resources
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Mainmenu.resources
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.PatientPanel.resources
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.GenerateResource.cache
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.exe
+C:\Users\Tawakal LAptops\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\HospitalManagementSystem.pdb
